@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(76, 173, 141);
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: x-large;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
